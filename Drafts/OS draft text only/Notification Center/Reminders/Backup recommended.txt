@@ -1,0 +1,11 @@
+Backup recommended
+Every once in a while, you should continue backing up your data, in case your
+computer might fail.You should back up at least once per month, and to stay 
+safe, back up whenever needed. This is just a reminder. If you have the time today,
+you can plug in your external drive, or use cloud services. You don't have to,
+however it is a strong recommendation.
+<remind me later>
+<remind me another day>
+<remind me in 1 week>
+<create backup (backup assistant)>
+<cloud backup>
